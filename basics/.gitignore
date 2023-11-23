@@ -1,0 +1,8 @@
+# Ignore files or directories
+test_inputs/
+test_outputs/
+*.log
+*.tmp
+*.in
+*.out
+*.pyc
